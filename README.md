@@ -8,6 +8,6 @@
 
 ## 📈 GitHub Stats
 
-![Rasmus's GitHub stats](https://github-readme-stats.vercel.app/api?username=rasmus3650d&show_icons=true&theme=tokyonight)
+![Rasmus's GitHub stats](https://github-readme-stats.vercel.app/api?username=rasmus3650&show_icons=true&theme=tokyonight)
 
 ---
