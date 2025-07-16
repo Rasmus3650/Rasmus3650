@@ -16,6 +16,12 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
+---
+## 🚀 Featured Projects
+
+- 🔐 [CROSS PQ Signature Scheme](https://github.com/rasmus3650/CROSS)  
+  A Go implementation of a post-quantum signature scheme with full spec compliance.
+---
 
 ## 📈 GitHub Stats
 
