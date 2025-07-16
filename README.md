@@ -30,6 +30,7 @@
 
 ---
 
+
 ## 🏆 GitHub Trophy Wall
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=rasmus3650&theme=tokyonight&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
@@ -41,3 +42,10 @@
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rasmus3650&theme=github-compact&custom_title=Rasmus%20Østergaard's%20Contribution%20Graph)
 
 ---
+
+## 💬 Contact
+
+- 📫 Email: rasmus3650@proton.me
+- 🧑‍💻 [LinkedIn]([https://www.linkedin.com/in/rasmusoestergaard](https://www.linkedin.com/in/rasmus-%C3%B8stergaard-362a7117a/))
+- 🧠 [CTF Team: 0-Day Aarhus](https://ctftime.org/team/251818)
+- 🧠 [CTF Team: Kalmarunionen](https://ctftime.org/team/114856)
