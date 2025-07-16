@@ -19,7 +19,7 @@
 ---
 ## 🚀 Featured Projects
 
-- 🔐 [CROSS PQ Signature Scheme](https://github.com/rasmus3650/CROSS)  
+- 🔐 [CROSS PQC Signature Scheme](https://github.com/rasmus3650/CROSS-Go)  
   A Go implementation of a post-quantum signature scheme with full spec compliance.
 ---
 
