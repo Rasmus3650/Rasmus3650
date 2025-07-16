@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Rasmus Østergaard
 
 🎓 Master's in Computer Science (Cryptology & AI) from Aarhus University  
-🔐 Cryptography, reverse engineering, and AI enthusiast  
-🧠 Passionate about CTFs, low-level protocols, and secure software design
+🔐 Cryptography, OSINT, reverse engineering, and AI enthusiast  
+🧠 Passionate about CTFs, cryptography, and secure software design
 
 ---
 
